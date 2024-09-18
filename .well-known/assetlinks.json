@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pocketmeal",
+      "sha256_cert_fingerprints":
+      ["F8:AB:45:8D:6A:58:FA:C6:E0:F5:D8:5A:8F:90:62:CF:F7:17:8C:A8:94:22:4B:50:B0:3F:00:77:DC:56:27:1B"]
+    }
+  }]
